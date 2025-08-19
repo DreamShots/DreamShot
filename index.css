@@ -82,6 +82,7 @@ header {
   background-size: cover;
   color: white;
   padding: 4rem 2rem;
+  background-color: black;
 }
 
 .hero-content {
